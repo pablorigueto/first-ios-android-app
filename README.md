@@ -2,6 +2,7 @@ Simple demo/template.
 
 ![](https://github.com/pablorigueto/first-ios-android-app/blob/main/demo-app.gif)
 
+[![Video Demo](https://img.youtube.com/vi/uelxR-ILoac/0.jpg)](https://youtu.be/uelxR-ILoac)
 
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
